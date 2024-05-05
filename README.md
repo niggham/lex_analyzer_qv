@@ -22,5 +22,5 @@
     - +, -, *, /
     - = (assignment)
     - == (equality comparison), != (inequality comparison)
-    - > (larger-than), < (smaller-than), >= (larger-than-or-equal-to), <= (smaller-than-or-equal-to)
+    - < (smaller-than), > (larger-than), >= (larger-than-or-equal-to), <= (smaller-than-or-equal-to)
     - Escape sequences: ‘\n’, ‘\t’, ‘\\’, ‘\'’, ‘\"’, ‘\?’
